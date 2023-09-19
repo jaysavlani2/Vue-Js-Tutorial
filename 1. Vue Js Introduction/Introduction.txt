@@ -1,0 +1,8 @@
+What is Vue js?
+
+1. It is JavaScript Framework for building web applications.
+2. Vue js is progressive framework -> Vue js is stable with other libraries and framework.
+3. Vue js 3 is the current version.
+4. We make Single Page Application with vue js.
+
+
